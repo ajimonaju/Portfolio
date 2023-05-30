@@ -314,6 +314,7 @@ main {
   width: 90%;
   z-index: 5;
   animation: ImgMove 10s infinite;
+  margin-left:80px;
 
 }
 
